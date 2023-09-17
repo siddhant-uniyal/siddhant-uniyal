@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **siddhantuniyal416@gmail.com**
 
-- ⚡ Fun fact **I can spend the entire day watching Striver.**
+- ⚡ Fun fact: **I can spend the entire day watching Striver.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
