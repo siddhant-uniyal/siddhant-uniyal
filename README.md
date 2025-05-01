@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Siddhant Uniyal</h1>
-<h3 align="center">I'm an entry-level backend and ML developer , obsessed with DSA</h3>
+<h3 align="center">I'm an entry-level fullstack and ML developer , obsessed with DSA</h3>
 
-- 🌱 I’m currently learning **React.js , Express.js , SQL**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **siddhantuniyal416@gmail.com**
 
-- ⚡ Fun fact: **I can spend the entire day watching Striver.**
+- ⚡ Fun fact: **I can spend the entire day solving LeetCode.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
