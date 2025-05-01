@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhant Uniyal</h1>
-<h3 align="center">I'm an entry-level fullstack and ML developer , obsessed with DSA</h3>
+<h3 align="center">I'm an entry-level fullstack and ML developer, obsessed with DSA</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
